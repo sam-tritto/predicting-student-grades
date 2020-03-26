@@ -2,7 +2,7 @@
 Visualizing and using multiple regression / classification algorithms as well as deep learning to predict student grades.
 
 
-Dataset from UC Irvine
+### Dataset from UC Irvine
 
 ### https://archive.ics.uci.edu/ml/datasets/student+performance
 
