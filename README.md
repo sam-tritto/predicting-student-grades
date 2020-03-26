@@ -2,9 +2,9 @@
 Visualizing and using multiple regression / classification algorithms as well as deep learning to predict student grades.
 
 
-# https://archive.ics.uci.edu/ml/datasets/student+performance
+### https://archive.ics.uci.edu/ml/datasets/student+performance
 
-# http://www3.dsi.uminho.pt/pcortez/student.pdf
+### http://www3.dsi.uminho.pt/pcortez/student.pdf
 
 
 # Please include this citation if you plan to use this database: 
